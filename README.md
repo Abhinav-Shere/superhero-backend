@@ -95,10 +95,9 @@ If I had more time, I would explore the following improvements:
 2. **Authentication and Authorization**: Implement a simple authentication system (e.g., **JWT** or **OAuth**) to ensure that only authorized users can manage superheroes.
 
 3. **Frontend**: Build a **React frontend** to allow users to:
-   - Add superheroes.
-   - View the list sorted by humility score.
+    - Add more frontend validation for all fields.
    - Display success/error messages.
-
+   - 
 4. **Advanced Validation**: Add validation for:
    - Unique superhero names.
    - Non-empty superpower strings.

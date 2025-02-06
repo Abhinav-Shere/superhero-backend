@@ -96,8 +96,8 @@ If I had more time, I would explore the following improvements:
 
 3. **Frontend**: Build a **React frontend** to allow users to:
     - Add more frontend validation for all fields.
-   - Display success/error messages.
-   - 
+    - Display success/error messages.
+     
 4. **Advanced Validation**: Add validation for:
    - Unique superhero names.
    - Non-empty superpower strings.
